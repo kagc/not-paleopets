@@ -1,0 +1,19 @@
+{
+  "name": "paleopets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kagc/paleopets.git"
+  },
+  "author": "Kirin Agcaoili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kagc/paleopets/issues"
+  },
+  "homepage": "https://github.com/kagc/paleopets#readme"
+}
